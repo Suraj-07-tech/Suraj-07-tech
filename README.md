@@ -3,6 +3,7 @@
 display: flex;
 flex-direction: column;
 align-items: center;
+width:100vw;
 ">
   <h1 align="left">Hi 👋, I'm Suraj Kumar aka <i style="color: orangered;">Surya</i></h1>
   <h3 align="left">A passionate full-stack web developer from India</h3>
