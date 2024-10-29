@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **suryask7549@gmail.com**
 
-- ⚡ Fun fact **I think i am little bit talktive**
+- ⚡ Fun fact **There is nothing funny in me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
